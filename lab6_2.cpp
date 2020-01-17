@@ -24,7 +24,7 @@ int main() {
     cout << "Fahsai: " << day << "....that is OK!!! I'm looking forward to watch " << movi << " with you.\n" ;
     cout << name << ": ";
     getline(cin,talk);
-    cout << "Fahsai: 555+ see you Next Monday. Bye Bye \(^ ^)/ \n";
+    cout << "Fahsai: 555+ see you Next Monday. Bye Bye \\(^ ^)/ \n";
 
     return 0;
 }
